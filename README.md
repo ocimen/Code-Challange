@@ -26,6 +26,6 @@ This list contains code challanges and programming contests web sites.
  
 * [Sphere Online Judge](http://www.spoj.com/)
 
-* [Uva Online Judge](https://uva.onlinejudge.org
+* [Uva Online Judge](https://uva.onlinejudge.org)
 
 * [Tech Gig](https://www.techgig.com/practice)
