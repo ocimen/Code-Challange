@@ -29,3 +29,5 @@ This list contains code challanges and programming contests web sites.
 * [Uva Online Judge](https://uva.onlinejudge.org)
 
 * [Tech Gig](https://www.techgig.com/practice)
+
+* [Reddit Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)
